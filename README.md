@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am student of AI/ML<br>i am also a data analyst<br>software developer <br>AI engenier<br>
+i am student of AI/ML<br>i am also a data analyst<br>software developer <br>AI engineer<br>
 
 
 # 💻 Tech Stack:
